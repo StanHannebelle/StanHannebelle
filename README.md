@@ -16,6 +16,7 @@
 ## 🚀 Open-source Projects I regularly contribute to
 
 - [swarmion](https://github.com/swarmion): A framework for Serverless Typescript microservices
+- [castore](https://github.com/castore-dev/castore): Making Event Sourcing easy 😎
 - [aleios-cloud/sls-test-tools](https://github.com/aleios-cloud/sls-test-tools): Custom Jest Assertions for integration testing on Serverless Projects
 - [theodo/keiko-serverless](https://github.com/theodo/keiko-serverless): Tutorial to get started with building Serverless applications
 
