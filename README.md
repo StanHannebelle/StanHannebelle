@@ -5,7 +5,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FFFFFF?logo=amazon-aws&logoColor=orange&style=for-the-badge)
 
 
-![Stan Hannebelle's github stats](https://github-readme-stats.vercel.app/api?username=StanHannebelle&count_private=true&show_icons=true&hide_border=true&custom_title=Github%20Stats&count_private=true)
+
 
 
 ## 👨‍👩‍👧‍👦 Community
