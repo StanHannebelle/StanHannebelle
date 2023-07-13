@@ -10,7 +10,7 @@
 
 ## 👨‍👩‍👧‍👦 Community
 
-- [ServerlessDays Paris 🦄🗼🇫🇷](https://paris.serverlessdays.io/) speaker coordinator
+- [ServerlessDays Paris 🦄🗼🇫🇷](https://paris.serverlessdays.io/) Speaker coordinator (2023, 2022, 2021)
 
 
 ## 🚀 Open-source Projects I regularly contribute to
